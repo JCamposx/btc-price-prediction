@@ -1,15 +1,15 @@
 # Datasets
 
-Los datasets se encuentran disponibles en:
+The datasets are available at:
 
-* Dataset de Twitter: <https://www.kaggle.com/datasets/alaix14/bitcoin-tweets-20160101-to-20190329?select=tweets.csv>
+* [Twitter Dataset](https://www.kaggle.com/datasets/alaix14/bitcoin-tweets-20160101-to-20190329)
 
-* Dataset de Reddit: <https://www.kaggle.com/datasets/jerryfanelli/reddit-comments-containing-bitcoin-2009-to-2019>
+* [Reddit Dataset](https://www.kaggle.com/datasets/jerryfanelli/reddit-comments-containing-bitcoin-2009-to-2019)
 
-* Dataset del historial del precio de Bitcoin: <https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-historical-prices-google-trends-data?select=Bitcoin+Historical+Data%282010-2022%29.csv>
+* [Bitcoin history Dataset](https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-historical-prices-google-trends-data)
 
-Se deben de descargar los correspondientes archivos .csv y colocarlos en el directorio **./src/datasets/original/**.
+Download the corresponding .csv files and place them in the `./src/datasets/original/` directory.
 
-## Importante
+## Important
 
-No se deben de cambiar los nombres de los archivos descargados.
+Do not change the names of the downloaded files.
